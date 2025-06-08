@@ -134,9 +134,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub** - [@yourusername](https://github.com/AdarshXKumAR)
+- **GitHub** - [@AdarshXKumAR](https://github.com/AdarshXKumAR)
 - **Email** - adarsh0670@gmail.com
-- **Website** - [Live Demo](https://your-demo-link.com)
+- **Website** - https://adarshxkumar.github.io/TechBlog-Website/
 
 ---
 
